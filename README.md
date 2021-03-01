@@ -3,7 +3,7 @@
 - Contributions are more than welcome. Please see [contribution guide](contributing.md).
 - 
 ### Portfolios ✨
-- [Rogie King](https://rog.ie/)
+- [Hamza Khattak](https://hamzaktk18.com/)
 
 ### Install ⚙️
 ```
